@@ -9,4 +9,4 @@
  <li>Css</li>
  </ul>
  <h3>Link of the project</h3>
- <a href="https://app.netlify.com/sites/trusting-murdock-874112/overview" >Link</a>
+ <a href="https://trusting-murdock-874112.netlify.app/" target=_blank >Click here</a>
